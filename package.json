@@ -1,0 +1,19 @@
+{
+  "name": "scrimba-js",
+  "version": "1.0.0",
+  "description": "Trials from https://scrimba.com/learn/learnjavascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muniyaraj/scrimba-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muniyaraj/scrimba-js/issues"
+  },
+  "homepage": "https://github.com/muniyaraj/scrimba-js#readme"
+}
